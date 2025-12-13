@@ -18,10 +18,10 @@ O que eu estudo?
 Estudante de Engenharia de Software
 Buscando aprender sobre novas tecnologias.
 
-Idimoas que eu falo 
-Ingles (Intermediario)
-Espanhol (Avançado)
-Alemão (Básico)
+Idimoas: <br> 
+Ingles (Intermediario) <br>
+Espanhol (Avançado) <br>
+Alemão (Básico) <br>
 
 📫Contato: <br>
 [Linkedin](https://www.linkedin.com/in/guilherme-de-castro-39864117b/) <br>
