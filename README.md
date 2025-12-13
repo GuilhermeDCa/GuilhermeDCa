@@ -30,6 +30,8 @@ Alemão (Básico) <br>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" width="100px">
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="100px">
+
 <!--
 **GuilhermeDCa/GuilhermeDCa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
