@@ -1,15 +1,23 @@
 ## Sejam Bem vindos ao meu mundo!
 
 👽 Olá me Chamo Guilherme De Castro
+    Tenho 27 anos
+    Autodidata 
+    Cristão
+    Caiçara
 
 O que que faço?
+    Gosto de esportes de luta e esportes que exijam muito de mim.
+    Lider de evangelismo de rua e Pré-Adolescentes.
  
 O que eu estudo?
+Estudante de Engenharia de Software
+Buscando aprender sobre novas tecnologias.
 
-Tecnologias que domino ?
-Certificados (fazer tabelinha)
-Fazer status do que dimino
 Idimoas que eu falo 
+Ingles (Intermediario)
+Espanhol (Avançado)
+Alemão (Básico)
 
 Contato:
 Email
