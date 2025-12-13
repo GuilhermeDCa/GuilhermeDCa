@@ -44,8 +44,8 @@ Alemão (Básico) <br>
 <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-plain.svg width="100px">
 
 </p>
---------------------------------------------------------------------------------------------------------------
 
+---
 
 | Cursos | Certificados |
 |--------| -------------|
