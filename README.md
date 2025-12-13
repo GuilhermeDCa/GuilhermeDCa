@@ -28,7 +28,7 @@ Alemão (Básico) <br>
 
 ## Minhas Tecnologias
 
-![PY](<i class="devicon-python-plain-wordmark"></i>)
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" />)
 
 <!--
 **GuilhermeDCa/GuilhermeDCa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
