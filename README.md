@@ -11,7 +11,7 @@
    ⚓ Caiçara
 
 
-    Gosto de esportes de luta e esportes que exijam muito de mim.
+Gosto de esportes de luta e esportes que exijam muito de mim.
  
 Sou Estudante de Engenharia de Software, em busca de entrar no mercado de trabalho do T.I
 
