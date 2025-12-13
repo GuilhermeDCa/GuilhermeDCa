@@ -23,9 +23,9 @@ Ingles (Intermediario)
 Espanhol (Avançado)
 Alemão (Básico)
 
-Contato:
-Email
-Linkedin
+📫Contato:
+[Email](guilhermedcdev@gmail.com)
+[Linkedin](https://www.linkedin.com/in/guilherme-de-castro-39864117b/)
 
 
 
