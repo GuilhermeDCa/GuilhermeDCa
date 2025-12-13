@@ -23,9 +23,12 @@ Alemão (Básico) <br>
 
 📫Contato: <br>
 [Linkedin](https://www.linkedin.com/in/guilherme-de-castro-39864117b/) <br>
-Email para contato: Guilhermedcdev@gmail.com
 
+------------
 
+## Minhas Tecnologias
+
+![PY](<i class="devicon-python-plain-wordmark"></i>)
 
 <!--
 **GuilhermeDCa/GuilhermeDCa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
