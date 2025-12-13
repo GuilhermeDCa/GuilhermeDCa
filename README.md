@@ -1,15 +1,19 @@
-## Hi there 👋
+## Sejam Bem vindos ao meu mundo!
 
-<!-- Cabeçalhos -->
+👽 Olá me Chamo Guilherme De Castro
 
-*italico* ou _italico_
+O que que faço?
+ 
+O que eu estudo?
 
-**Negrito** ou __negrito__
+Tecnologias que domino ?
+Certificados (fazer tabelinha)
+Fazer status do que dimino
+Idimoas que eu falo 
 
-- Lista 1
-- Lista 2 
- - Sublista
-
+Contato:
+Email
+Linkedin
 
 
 
