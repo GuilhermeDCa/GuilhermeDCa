@@ -1,5 +1,8 @@
 ## Sejam Bem vindos ao meu mundo!
 
+https://media1.tenor.com/m/b7TJ6Apm5rUAAAAC/type-computer.gif
+
+
 👽 Olá me Chamo Guilherme De Castro
     Tenho 27 anos
     Autodidata 
