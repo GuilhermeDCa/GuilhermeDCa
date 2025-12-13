@@ -28,7 +28,7 @@ Alemão (Básico) <br>
 
 ## Minhas Tecnologias
 
-
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" width="100px">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="100px">
@@ -43,6 +43,7 @@ Alemão (Básico) <br>
 
 <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-plain.svg width="100px">
 
+</p>
 --------------------------------------------------------------------------------------------------------------
 
 
