@@ -10,13 +10,10 @@
    🐑 Cristão
    ⚓ Caiçara
 
-O que que faço?
     Gosto de esportes de luta e esportes que exijam muito de mim.
-    Lider de evangelismo de rua e Pré-Adolescentes.
  
-O que eu estudo?
-Estudante de Engenharia de Software
-Buscando aprender sobre novas tecnologias.
+Sou Estudante de Engenharia de Software, em busca de entrar no mercado de trabalho do T.I
+
 
 Idimoas: <br> 
 Ingles (Intermediario) <br>
