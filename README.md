@@ -3,10 +3,11 @@
 ![Jim Digitando](https://media1.tenor.com/m/b7TJ6Apm5rUAAAAC/type-computer.gif) 
 
 👽 Olá me Chamo Guilherme De Castro
-    Tenho 27 anos
-    Autodidata 
-    Cristão
-    Caiçara
+
+   👨 Tenho 27 anos
+   📓Autodidata 
+   🐑 Cristão
+   ⚓ Caiçara
 
 O que que faço?
     Gosto de esportes de luta e esportes que exijam muito de mim.
