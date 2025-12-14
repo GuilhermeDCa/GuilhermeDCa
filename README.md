@@ -8,7 +8,7 @@
    👨 Tenho 27 anos
    📓Autodidata 
    🐑 Cristão
-   ⚓ Caiçara
+   ⚓ Caiçara brasileiro
 
 
 Gosto de esportes de luta e esportes que exijam muito de mim.
