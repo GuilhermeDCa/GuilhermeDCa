@@ -25,7 +25,7 @@ Alemão (Básico) <br>
 [Linkedin](https://www.linkedin.com/in/guilherme-de-castro-39864117b/) <br>
 
 ------------
-
+<!--
 ## Minhas Tecnologias
 
 <p align="center">
@@ -41,7 +41,7 @@ Alemão (Básico) <br>
 
 <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg width="100px">
 
-<img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-plain.svg width="100px">
+**<img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-plain.svg width="100px">
 
 </p>
 
