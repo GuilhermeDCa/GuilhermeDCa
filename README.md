@@ -13,7 +13,7 @@
 
 Gosto de esportes de luta e esportes que exijam muito de mim.
  
-Sou Estudante de Engenharia de Software, em busca de entrar no mercado de trabalho do T.I
+Desenvolvedor de Banco de Dados N1, focado em estruturar, manter e otimizar os dados que movem o negócio no e-commerce, tendo o ERP Linx Server e o SQL Server como minhas principais ferramentas de trabalho diário.Antes de migrar para a área de tecnologia, construí minha base profissional com 5 anos de experiência operacional na indústria, desenvolvendo outros braços na área auxiliando supervisores em baixas de documentação via SAP.Trabalhar diretamente na linha de frente me deu uma visão muito prática de processos, resolução de problemas e melhoria contínua. Hoje, aplico essa vivência na TI: compreendo perfeitamente como os dados e as automações impactam a vida de quem está operando o sistema na ponta.Atualmente, curso Engenharia de Software e busco entregar soluções de banco de dados que sejam eficientes e seguras. Para apoiar esse objetivo e facilitar as integrações de sistema, também possuo conhecimentos básicos em desenvolvimento backend.
 
 
 Idimoas: <br> 
